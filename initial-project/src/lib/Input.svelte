@@ -1,7 +1,7 @@
 <script>
   export let inputProp;
   
-  let name = "";
+  let  name = "";
 
   let loading = false;
 
